@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to Howard's basement  👋
+#### I spend a lot of time in my basement writing code, playing games, watching movies.
 <!--
 **howardding2000/howardding2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
