@@ -10,9 +10,13 @@ OK,here some informations about me:
 
 - 🔭 I’m currently working on srearching a job like a software developer.
 - 🌱 I’m currently learning ReactJs
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)
 
 
-
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howardding2000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
