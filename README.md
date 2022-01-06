@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 OK,here some informations about me:
 
-- 🔭 I’m currently working on srearching a job like a software developer.
+- 🔭 I’m currently srearching a job as a web-front developer.
 - 🌱 I’m currently learning ReactJs
 <br/>
 
