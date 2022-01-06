@@ -31,8 +31,6 @@ OK,here some informations about me:
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
 
--->
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
