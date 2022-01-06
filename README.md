@@ -1,5 +1,7 @@
-### Welcome to Howard's basement  👋
-I spend a lot of time in my basement writing code, playing games, watching movies.
+**Welcome to Howard's basement  👋**
+---
+I am enjoying my time to write code, play games and watch movies in my basement.
+
 
 <!--
 **howardding2000/howardding2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,12 +14,9 @@ OK,here some informations about me:
 - 🌱 I’m currently learning ReactJs
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 **Languages and Tools:**  
+---
+<div>  
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java script">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5">
@@ -31,6 +30,14 @@ OK,here some informations about me:
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring 5">
 <img height="40" src="https://github.com/howardding2000/howardding2000/blob/056494d7cf2a302b8f69b57afa967738a84ed50c/logo/logo-bird-ninja.svg" alt="MyBatis">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis">
+</div>
+
+**My Stats:**  
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- need to replace the icon sources
