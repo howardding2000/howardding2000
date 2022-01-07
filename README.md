@@ -38,8 +38,6 @@ OK,here some informations about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](#)
 
-[![howardding2000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howardding2000)](#)
-
 <!-- need to replace the icon sources
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="SpringBoot 2">
 
