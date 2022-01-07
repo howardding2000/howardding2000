@@ -34,11 +34,11 @@ OK,here some informations about me:
 
 **My Stats:**  
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)](https://github.com/howardding2000/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](https://github.com/howardding2000/)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howardding2000)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howardding2000)](https://github.com/howardding2000/)
 
 <!-- need to replace the icon sources
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="SpringBoot 2">
