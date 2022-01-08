@@ -39,6 +39,82 @@ OK,here some informations about me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](#)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 35 Contributions in the Year 2022
+ > 
+> 📦 4.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
+🌆 Daytime    57 commits     █████████░░░░░░░░░░░░░░░░   37.75% 
+🌃 Evening    72 commits     ████████████░░░░░░░░░░░░░   47.68% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       44 commits     ███████░░░░░░░░░░░░░░░░░░   29.14% 
+Tuesday      13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
+Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+Thursday     30 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87% 
+Friday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
+Saturday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
+Sunday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.27%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+JavaScript               3 hrs 23 mins       ████████████████████████░   98.37% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+
+🔥 Editors: 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+react-03-login           3 hrs 14 mins       ███████████████████████░░   93.95% 
+react-02-my-simple-projec12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.05%
+
+💻 Operating System: 
+Windows                  3 hrs 27 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in CSS** 
+
+```text
+CSS                      2 repos             █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/howardding2000/howardding2000/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
 
 <!-- need to replace the icon sources
