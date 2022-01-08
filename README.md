@@ -36,8 +36,6 @@ OK,here some informations about me:
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](#)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue)
 
@@ -120,6 +118,7 @@ CSS                      2 repos             ███████████�
 <!-- need to replace the icon sources
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="SpringBoot 2">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](#)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
