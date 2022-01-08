@@ -1,4 +1,4 @@
-# vocabulary-book
+# Vocabulary Book
 
 ## English words need to be remenbered
 ---
