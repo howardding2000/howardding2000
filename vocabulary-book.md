@@ -1,5 +1,7 @@
 # vocabulary-book
 
+
+
 ## English words need to be remenbered
 ---
 Case Styles
@@ -9,12 +11,37 @@ Case Styles
 - `kebab-case`
 ---
 Symbols
-- `semicolon`:  `;` [ˈsemikoʊlən] n. 分号
-- `dash`: `-` [dæʃ] > n. 破折号；
-- `parenthesis`: `()`[pəˈrenθəsɪs] n. 圆括号
-- `square brackets`: `[]` 方括号
-- `curly braces`:  `{}`[ˈkɜːrli] [ˈbreɪsɪz] 大括号
-- `backtick`:  ` `` `  反引号
+
+- 符号	英文含义	读音	中文含义
+- `．`	period or full stop	句号
+- `，`	comma		逗号
+- `：`	colon		冒号
+- `；`	semicolon		分号
+- `！`	exclamation mark		惊叹号
+- `？`	question mark		问号
+- `-`	hyphen		连字符
+- `*`	asterisk		星号
+- `’`	apostrophe		所有格符号，单词内部的省略
+- `—`	dash		破折号
+- `_`	underscore		
+- `‘’`	single quotation marks	美 [kwoʊˈteɪʃn]	单引号
+- `“ ”`	double quotation marks		双引号
+- `( )`	parenthesis or round brackets		圆括号
+- `[ ]`	square brackets	美 ['brækɪts]	方括号
+- `<>`	Angle brackets		尖括号
+- `{}`	curly brackets or braces		大括号
+- `《》`	French quotes		法文引号；书名号
+- `…`	ellipsis		省略号
+- `¨`	tandem colon		双点号
+- `"`	ditto		同上
+- `‖`	parallel		双线号
+- `／`	slash or virgule or diagonal mark		斜线号
+- `＆`	ampersand = and		
+- `～`	tilde or swung dash		代字号
+- `§`	section; division		分节号
+- `→`	arrow		箭号；参见号
+- `|` vertical bar		竖线
+- `\`	backslash		反斜线
 ---
 - `fetch`
 > 英 [fetʃ]  美 [fetʃ] 
