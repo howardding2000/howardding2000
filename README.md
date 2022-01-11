@@ -21,6 +21,7 @@ OK,here some informations about me:
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java script">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3">
+<img height="40" src="./logo/logo-chakra-400x400.jpg" alt="Chakra UI">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="LESS">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS">
@@ -28,7 +29,7 @@ OK,here some informations about me:
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot 2">
-<img height="40" src="https://github.com/howardding2000/howardding2000/blob/056494d7cf2a302b8f69b57afa967738a84ed50c/logo/logo-bird-ninja.svg" alt="MyBatis">
+<img height="40" src="./logo/logo-bird-ninja.svg" alt="MyBatis">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis">
 </div>
 
