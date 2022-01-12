@@ -13,7 +13,6 @@ Here are some ideas to get you started: -->
 - Right now I am working in a manufacturing company as a mechanical drafter :triangular_ruler::straight_ruler::pencil2:
 - __I’m currently learning ReactJs, Chakra UI__ :computer::computer_mouse::muscle:
 - __I’m currently srearching a job as a front end web developer__:heart_eyes::heart_eyes::heart_eyes:
-<br/>
 
 **Languages and Tools:**  
 ---
