@@ -1,17 +1,18 @@
 **Welcome to Howard's basement  👋**
----
-I am enjoying my time to write code, play games and watch movies in my basement.
-
-
 <!--
 **howardding2000/howardding2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-OK,here some informations about me:
-
-- 🔭 I’m currently srearching a job as a web-front developer.
-- 🌱 I’m currently learning ReactJs
+**Here some informations about me:**  
+---
+- Bachelor degree in software engineering:man_student:
+- 1.5 year feature phone :iphone: development experience（ancient technology :sweat_smile:	）
+- 6 years project management experience（PMP Certification）:briefcase::necktie::pencil:
+- DEP of Machining Technique ( cours en français):toolbox::hammer_and_wrench::gear:
+- Right now I am working in a manufacturing company as a mechanical drafter :triangular_ruler::straight_ruler::pencil2:
+- __I’m currently learning ReactJs, Chakra UI__ :computer::computer_mouse::muscle:
+- __I’m currently srearching a job as a front end web developer__:heart_eyes::heart_eyes::heart_eyes:
 <br/>
 
 **Languages and Tools:**  
