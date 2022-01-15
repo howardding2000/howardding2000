@@ -132,12 +132,7 @@ n. 随军记者
 > n. 设想，可能发生的情况 ；（电影、戏剧等的）剧情梗概；（艺术或文学作品中的）场景
 [ 复数 scenarios ]
 ---
-- `indented`
-> 英 [ɪnˈdentɪd]  美 [ɪnˈdentɪd] 
-> 
-> adj. 缩进排印的，受契约约束的； 
-v. 缩进；切割成锯齿状（indent 的过去分词）
-> 
+- `indented` 美 [ɪnˈdentɪd]  adj. 缩进排印的 v. 缩进；
 > 'The Indented Syntax'
-
 --- 
+- optimize 美 [ˈɑːptɪmaɪz]  v. 优化
