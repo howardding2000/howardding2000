@@ -136,3 +136,6 @@ n. 随军记者
 > 'The Indented Syntax'
 --- 
 - optimize 美 [ˈɑːptɪmaɪz]  v. 优化
+---
+- sibling 美 [ˈsɪblɪŋ] n. <正式>兄弟姐妹 
+---
