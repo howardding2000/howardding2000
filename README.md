@@ -10,7 +10,6 @@ Here are some ideas to get you started: -->
 - 1.5 year feature phone :iphone: development experience （ancient technology :sweat_smile:	）
 - 6 years project management experiencein in mobile device manufacturing（PMP Certification）:briefcase::necktie::pencil:
 - DEP of Machining Technique ( cours en français):toolbox::hammer_and_wrench::gear:
-- Right now I am working in a manufacturing company as a mechanical drafter :triangular_ruler::straight_ruler::pencil2:
 - __I’m currently learning ReactJs, Chakra UI__ :computer::computer_mouse::muscle:
 - __I’m currently srearching a job as a front end web developer__:heart_eyes::heart_eyes::heart_eyes:
 
