@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="45" src="./assets/icons/css3.svg" alt="CSS3"></a>
 <a href="#"><img height="45" src="./assets/icons/react.svg" alt="React"></a>
 <a href="#"><img height="45" src="./assets/icons/redux.svg" alt="Redux"></a>
-<a href="#"><img height="45" src="./assets/icons/ nextjs.svg" alt="Nextjs"></a>
+<a href="#"><img height="45" src="./assets/icons/nextjs.svg" alt="Nextjs"></a>
 <a href="#"><img height="45" src="./assets/icons/logo-chakra-400x400.jpg" alt="Chakra UI"></a>
 <a href="#"><img height="45" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>
 <a href="#"><img height="45" src="./assets/icons/less.svg" alt="LESS"></a>
