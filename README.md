@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="45" src="./assets/icons/redux.svg" alt="Redux"></a>
 <a href="#"><img height="45" src="./assets/icons/nextjs.svg" alt="Nextjs"></a>
 <a href="#"><img height="45" src="./assets/icons/logo-chakra-400x400.jpg" alt="Chakra UI"></a>
-<a href="#"><img height="45" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>
+<!--<a href="#"><img height="45" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>-->
 <a href="#"><img height="45" src="./assets/icons/less.svg" alt="LESS"></a>
 <a href="#"><img height="45" src="./assets/icons/sass.svg" alt="SASS"></a>
 <a href="#"><img height="45" src="./assets/icons/vscode.svg" alt="vscode"></a>
@@ -33,9 +33,9 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="45" src="./assets/icons/mybatis.svg" alt="MyBatis"></a>
 <a href="#"><img height="45" src="./assets/icons/redis.svg" alt="Redis"></a>
 <a href="#"><img height="45" src="./assets/icons/git.svg" alt="git"></a>
-<a href="#"><img height="45" src="./assets/icons/docker.svg" alt="docker"></a>
-<a href="#"><img height="45" src="./assets/icons/bash.svg" alt="bash"></a>
-<a href="#"><img height="45" src="./assets/icons/linux.svg" alt="Linux"></a>
+<!--<a href="#"><img height="45" src="./assets/icons/docker.svg" alt="docker"></a>-->
+<!--<a href="#"><img height="45" src="./assets/icons/bash.svg" alt="bash"></a>-->
+<!--<a href="#"><img height="45" src="./assets/icons/linux.svg" alt="Linux"></a>-->
 </div>
 
 **My Stats:**  
