@@ -86,6 +86,11 @@ Symbols
 - `℃` Celsius system 摄氏度
 - `＠` at 在
 ---
+>  idempotent
+> 英 [ˈaɪdəmˌpəʊtənt]  美 [aɪˈdempətənt] 
+> 
+>adj. 幂等的 n. [数] 幂等（idempotent、idempotence）是一个数学与计算机学概念，常见于抽象代数中。在编程中一个幂等操作的特点是其任意多次执行所产生的影响均与一次执行的影响相同。
+---
 - `fetch`
 > 英 [fetʃ]  美 [fetʃ] 
 > 
