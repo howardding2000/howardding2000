@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 **Here some informations about me:**  
 ---
 - Bachelor degree in software engineering:man_student:
-- 1.5 year feature phone :iphone: development experience （ancient technology :sweat_smile:	）
+- 1.5 years feature phone :iphone: development experience （ancient technology :sweat_smile:	）
 - 6 years project management experiencein in mobile device manufacturing（PMP Certification）:briefcase::necktie::pencil:
 - DEP of Machining Technique ( cours en français):toolbox::hammer_and_wrench::gear:
 - __I’m currently learning TypeScript, Nextjs, Chakra UI__ :computer::computer_mouse::muscle:
