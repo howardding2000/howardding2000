@@ -11,8 +11,9 @@ Here are some ideas to get you started: -->
 - 6 years project management experiencein in mobile device manufacturing（PMP Certification）:briefcase::necktie::pencil:
 - DEP of Machining Technique ( cours en français):toolbox::hammer_and_wrench::gear:
 - __I’m currently working with Reactjs, TypeScript, Nextjs, Chakra UI__ :computer::computer_mouse::muscle:
-- __I’m currently srearching a job as a web front end developer__:heart_eyes::heart_eyes::heart_eyes:
-
+- __I’m currently srearching a job as a web front end developer__:heart_eyes::heart_eyes::heart_eyes:- 
+- Welcome to visite my website <a href="buding.ca">buding.ca</a>, although it's still under construction :sweat_smile::sweat_smile::sweat_smile:
+- 
 **Languages and Tools:**  
 ---
 <div>  
