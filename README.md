@@ -17,7 +17,8 @@ Here are some ideas to get you started: -->
 **Languages and Tools:**  
 ---
 <div>  
-<a href="#"><img height="45" src="./assets/icons/javascript.svg" alt="java script"></a>
+<a href="#"><img height="45" src="./assets/icons/typescript.svg" alt="TypeScript"></a>
+<a href="#"><img height="45" src="./assets/icons/javascript.svg" alt="JavaScript"></a>
 <a href="#"><img height="45" src="./assets/icons/html5.svg" alt="html5"></a>
 <a href="#"><img height="45" src="./assets/icons/css3.svg" alt="CSS3"></a>
 <a href="#"><img height="45" src="./assets/icons/react.svg" alt="React"></a>
