@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 6 years project management experiencein in mobile device manufacturing（PMP Certification）:briefcase::necktie::pencil:
 - DEP of Machining Technique ( cours en français):toolbox::hammer_and_wrench::gear:
 - __I’m currently coding with Reactjs, TypeScript, Nextjs, Chakra UI__ :computer::computer_mouse::muscle:
-- __I’m recently searching a job as a web front end developer__:heart_eyes::heart_eyes::heart_eyes:- 
+- __I’m recently searching a job as a web front end developer__:heart_eyes::heart_eyes::heart_eyes:
 - Welcome to visite my website <a href="https://www.buding.ca">buding.ca</a>, although it's still under construction :sweat_smile::sweat_smile::sweat_smile:
 
 **Languages and Tools:**  
@@ -25,8 +25,8 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="45" src="./assets/icons/nextjs.svg" alt="Nextjs"></a>
 <a href="#"><img height="45" src="./assets/icons/logo-chakra-400x400.jpg" alt="Chakra UI"></a>
 <!--<a href="#"><img height="45" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>-->
-<a href="#"><img height="45" src="./assets/icons/less.svg" alt="LESS"></a>
-<a href="#"><img height="45" src="./assets/icons/sass.svg" alt="SASS"></a>
+<!--<a href="#"><img height="45" src="./assets/icons/less.svg" alt="LESS"></a>-->
+ <a href="#"><img height="45" src="./assets/icons/sass.svg" alt="SASS"></a>
 <a href="#"><img height="45" src="./assets/icons/vscode.svg" alt="vscode"></a>
 <a href="#"><img height="45" src="./assets/icons/mysql.svg" alt="MySQL"></a>
 <a href="#"><img height="45" src="./assets/icons/java.svg" alt="JAVA"></a>
@@ -113,7 +113,6 @@ Windows                  19 hrs 10 mins      ███████████�
 <!--END_SECTION:waka-->
 
 <!-- need to replace the icon sources
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="SpringBoot 2">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](#)
 
