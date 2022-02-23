@@ -25,8 +25,8 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="45" src="./assets/icons/nextjs.svg" alt="Nextjs"></a>
 <a href="#"><img height="45" src="./assets/icons/logo-chakra-400x400.jpg" alt="Chakra UI"></a>
 <!--<a href="#"><img height="45" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>-->
-<!--<a href="#"><img height="45" src="./assets/icons/less.svg" alt="LESS"></a>-->
- <a href="#"><img height="45" src="./assets/icons/sass.svg" alt="SASS"></a>
+<a href="#"><img height="45" src="./assets/icons/less.svg" alt="LESS"></a>
+ <!--<a href="#"><img height="45" src="./assets/icons/sass.svg" alt="SASS"></a>-->
 <a href="#"><img height="45" src="./assets/icons/vscode.svg" alt="vscode"></a>
 <a href="#"><img height="45" src="./assets/icons/mysql.svg" alt="MySQL"></a>
 <a href="#"><img height="45" src="./assets/icons/java.svg" alt="JAVA"></a>
