@@ -27,8 +27,9 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="60" src="./assets/icons/less.svg" alt="LESS"></a>
 <a href="#"><img height="60" src="./assets/icons/logo-chakra-400x400.jpg" alt="Chakra UI"></a>
 <!--<a href="#"><img height="60" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>-->
-<a href="#"><img height="60" src="./assets/icons/mongodb.svg" alt="mongodb"></a>
+<a href="#"><img height="60" src="./assets/icons/nodejs.svg" alt="nodejs"></a>
 <a href="#"><img height="60" src="./assets/icons/express.svg" alt="express"></a>
+<a href="#"><img height="60" src="./assets/icons/mongodb.svg" alt="mongodb"></a>
 <a href="#"><img height="60" src="./assets/icons/vscode.svg" alt="vscode"></a>
 <a href="#"><img height="60" src="./assets/icons/mysql.svg" alt="MySQL"></a>
 <a href="#"><img height="60" src="./assets/icons/java.svg" alt="JAVA"></a>
