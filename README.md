@@ -16,28 +16,30 @@ Here are some ideas to get you started: -->
 
 **Languages and Tools:**  
 ---
-<div>  
-<a href="#"><img height="45" src="./assets/icons/typescript.svg" alt="TypeScript"></a>
-<a href="#"><img height="45" src="./assets/icons/javascript.svg" alt="JavaScript"></a>
-<a href="#"><img height="45" src="./assets/icons/html5.svg" alt="html5"></a>
-<a href="#"><img height="45" src="./assets/icons/css3.svg" alt="CSS3"></a>
-<a href="#"><img height="45" src="./assets/icons/react.svg" alt="React"></a>
-<a href="#"><img height="45" src="./assets/icons/nextjs.svg" alt="Nextjs"></a>
-<a href="#"><img height="45" src="./assets/icons/sass.svg" alt="SASS"></a>
-<a href="#"><img height="45" src="./assets/icons/less.svg" alt="LESS"></a>
-<a href="#"><img height="45" src="./assets/icons/logo-chakra-400x400.jpg" alt="Chakra UI"></a>
-<!--<a href="#"><img height="45" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>-->
-<a href="#"><img height="45" src="./assets/icons/vscode.svg" alt="vscode"></a>
-<a href="#"><img height="45" src="./assets/icons/mysql.svg" alt="MySQL"></a>
-<a href="#"><img height="45" src="./assets/icons/java.svg" alt="JAVA"></a>
-<a href="#"><img height="45" src="./assets/icons/spring.svg" alt="SpringBoot 2"></a>
-<a href="#"><img height="45" src="./assets/icons/mybatis.svg" alt="MyBatis"></a>
-<a href="#"><img height="45" src="./assets/icons/redis.svg" alt="Redis"></a>
-<a href="#"><img height="45" src="./assets/icons/git.svg" alt="git"></a>
-<!--<a href="#"><img height="45" src="./assets/icons/docker.svg" alt="docker"></a>-->
-<!--<a href="#"><img height="45" src="./assets/icons/bash.svg" alt="bash"></a>-->
-<!--<a href="#"><img height="45" src="./assets/icons/linux.svg" alt="Linux"></a>-->
-</div>
+
+<a href="#"><img height="60" src="./assets/icons/typescript.svg" alt="TypeScript"></a>
+<a href="#"><img height="60" src="./assets/icons/javascript.svg" alt="JavaScript"></a>
+<a href="#"><img height="60" src="./assets/icons/html5.svg" alt="html5"></a>
+<a href="#"><img height="60" src="./assets/icons/css3.svg" alt="CSS3"></a>
+<a href="#"><img height="60" src="./assets/icons/react.svg" alt="React"></a>
+<a href="#"><img height="60" src="./assets/icons/nextjs.svg" alt="Nextjs"></a>
+<a href="#"><img height="60" src="./assets/icons/sass.svg" alt="SASS"></a>
+<a href="#"><img height="60" src="./assets/icons/less.svg" alt="LESS"></a>
+<a href="#"><img height="60" src="./assets/icons/logo-chakra-400x400.jpg" alt="Chakra UI"></a>
+<!--<a href="#"><img height="60" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>-->
+<a href="#"><img height="60" src="./assets/icons/mongodb.svg" alt="mongodb"></a>
+<a href="#"><img height="60" src="./assets/icons/express.svg" alt="express"></a>
+<a href="#"><img height="60" src="./assets/icons/vscode.svg" alt="vscode"></a>
+<a href="#"><img height="60" src="./assets/icons/mysql.svg" alt="MySQL"></a>
+<a href="#"><img height="60" src="./assets/icons/java.svg" alt="JAVA"></a>
+<a href="#"><img height="60" src="./assets/icons/spring.svg" alt="SpringBoot 2"></a>
+<a href="#"><img height="60" src="./assets/icons/mybatis.svg" alt="MyBatis"></a>
+<a href="#"><img height="60" src="./assets/icons/redis.svg" alt="Redis"></a>
+<a href="#"><img height="60" src="./assets/icons/git.svg" alt="git"></a>
+<!--<a href="#"><img height="60" src="./assets/icons/docker.svg" alt="docker"></a>-->
+<!--<a href="#"><img height="60" src="./assets/icons/bash.svg" alt="bash"></a>-->
+<!--<a href="#"><img height="60" src="./assets/icons/linux.svg" alt="Linux"></a>-->
+
 
 **My Stats:**  
 ---
