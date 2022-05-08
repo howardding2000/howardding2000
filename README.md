@@ -46,6 +46,8 @@ Here are some ideas to get you started: -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)](#)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -107,7 +109,7 @@ Windows                  3 hrs 30 mins       ███████████�
 ```
 
 
- Last Updated on 07/05/2022 05:15:27 UTC
+ Last Updated on 08/05/2022 05:16:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- need to replace the icon sources
