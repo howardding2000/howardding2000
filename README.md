@@ -91,22 +91,21 @@ Sunday       76 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JSON                     14 mins             ████████████████████████░   98.09% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-react-dashboard          15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 13/05/2022 05:41:40 UTC
+ Last Updated on 14/05/2022 05:56:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- need to replace the icon sources
