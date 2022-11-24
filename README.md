@@ -46,67 +46,7 @@ Here are some ideas to get you started: -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)](#)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 381 Contributions in the Year 2022
- > 
-> 📦 11.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
-🌆 Daytime    224 commits    █████████░░░░░░░░░░░░░░░░   35.78% 
-🌃 Evening    286 commits    ███████████░░░░░░░░░░░░░░   45.69% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       117 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
-Tuesday      111 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
-Wednesday    100 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-Friday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
-Saturday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
-Sunday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-JavaScript               5 mins              █████████████████████████   99.53% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
-
-🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-react-dashboard-server   5 mins              █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 03/06/2022 05:16:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- need to replace the icon sources
