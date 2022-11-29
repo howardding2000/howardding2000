@@ -32,9 +32,9 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="60" src="./assets/icons/vscode.svg" alt="vscode"></a>
 <a href="#"><img height="60" src="./assets/icons/mysql.svg" alt="MySQL"></a>
 <a href="#"><img height="60" src="./assets/icons/java.svg" alt="JAVA"></a>
-<a href="#"><img height="60" src="./assets/icons/spring.svg" alt="SpringBoot 2"></a>
-<a href="#"><img height="60" src="./assets/icons/mybatis.svg" alt="MyBatis"></a>
-<a href="#"><img height="60" src="./assets/icons/redis.svg" alt="Redis"></a>
+<!--<a href="#"><img height="60" src="./assets/icons/spring.svg" alt="SpringBoot 2"></a>-->
+<!--<a href="#"><img height="60" src="./assets/icons/mybatis.svg" alt="MyBatis"></a>-->
+<!--<a href="#"><img height="60" src="./assets/icons/redis.svg" alt="Redis"></a>-->
 <a href="#"><img height="60" src="./assets/icons/git.svg" alt="git"></a>
 <!--<a href="#"><img height="60" src="./assets/icons/docker.svg" alt="docker"></a>-->
 <!--<a href="#"><img height="60" src="./assets/icons/bash.svg" alt="bash"></a>-->
