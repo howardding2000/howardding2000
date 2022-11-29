@@ -6,12 +6,10 @@ Here are some ideas to get you started: -->
 
 **Here some informations about me:**  
 ---
-- Bachelor degree in software engineering:man_student:
-- 2 years feature phone :iphone: development experience （ancient technology :sweat_smile:	）
+- Bachelor degree on __Software Engineering__:man_student:
+- 2 years feature phone :iphone: development experience __C++__ （ancient technology :sweat_smile:	）
 - 6 years project management experiencein in mobile device manufacturing（PMP Certification）:briefcase::necktie::pencil:
-- DEP of Machining Technique ( cours en français):toolbox::hammer_and_wrench::gear:
-- __I’m recently searching a job as a web frontend developer__:heart_eyes::heart_eyes::heart_eyes:
-- Welcome to visite my website <a href="https://www.buding.ca">buding.ca</a>, although it's still under construction :sweat_smile::sweat_smile::sweat_smile:
+- __I’m recently searching a job as a web frontend developer React + Typescript__:heart_eyes::heart_eyes::heart_eyes:
 <!-- __I’m currently coding with Reactjs, TypeScript, Nextjs, Chakra UI__ :computer::computer_mouse::muscle:-->
 **Languages and Tools:**  
 ---
@@ -53,6 +51,10 @@ Here are some ideas to get you started: -->
 <!-- need to replace the icon sources
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardding2000&layout=compact)](#)
+
+- Welcome to visite my website <a href="https://www.buding.ca">buding.ca</a>, although it's still under construction :sweat_smile::sweat_smile::sweat_smile:
+
+- DEP of Machining Technique ( cours en français):toolbox::hammer_and_wrench::gear:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
