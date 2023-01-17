@@ -35,7 +35,8 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="60" src="./assets/icons/redis.svg" alt="Redis"></a>
 
 ## IDE
-<a href="#"><img height="60" src="./assets/icons/vscode.svg" alt="vscode"></a>
+<a href="#"><img height="60" src="./assets/icons/vscode.svg" alt="VScode"></a>
+<a href="#"><img height="60" src="./assets/icons/IntelliJ_IDEA.svg" alt="IntelliJ IDEA"></a>
 
 <!--<a href="#"><img height="60" src="./assets/icons/bootstrap.svg" alt="Bootstrap"></a>-->
 <!--<a href="#"><img height="60" src="./assets/icons/nextjs.svg" alt="Nextjs"></a>-->
