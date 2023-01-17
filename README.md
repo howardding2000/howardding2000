@@ -49,9 +49,11 @@ Here are some ideas to get you started: -->
 
 ## My Demo
 ### <a href="https://4q-todo.vercel.app/">4q-todo</a>
+* Typescript + React
 
 ### <a href="https://rd-client.vercel.app/">react-dashboard</a>
 * login with username:`admin` password:`admin`
+* React + Antd + nodejs + express + mongodb
 
 **My Stats:**  
 ---
