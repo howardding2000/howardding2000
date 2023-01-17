@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 **Here some informations about me:**  
 ---
 - Bachelor degree on __Software Engineering__:man_student:
-- 2 years feature phone :iphone: development experience __C++__ （ancient technology :sweat_smile:	）
+- 2 years feature phone :iphone: development experience __C++__
 - 6 years project management experiencein in mobile device manufacturing（PMP Certification）:briefcase::necktie::pencil:
 - __I’m recently searching a job as a web frontend developer React + Typescript__:heart_eyes::heart_eyes::heart_eyes:
 <!-- __I’m currently coding with Reactjs, TypeScript, Nextjs, Chakra UI__ :computer::computer_mouse::muscle:-->
