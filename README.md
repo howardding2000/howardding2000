@@ -60,7 +60,7 @@ Here are some ideas to get you started: -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)](#)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
@@ -103,20 +103,22 @@ Sunday                   76 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               4 hrs 7 mins        █████████████████████████   100.00 % 
+JavaScript               3 hrs 20 mins       █████████████████████████   99.23 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nodejs-practice          4 hrs 7 mins        █████████████████████████   100.00 % 
+nodejs-practice          3 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2023 05:07:38 UTC
+ Last Updated on 10/03/2023 05:07:41 UTC
 <!--END_SECTION:waka-->
 
 <!-- need to replace the icon sources
