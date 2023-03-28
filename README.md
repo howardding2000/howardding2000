@@ -62,7 +62,7 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,7 +116,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/03/2023 05:07:33 UTC
+ Last Updated on 28/03/2023 05:07:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- need to replace the icon sources
