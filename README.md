@@ -1,20 +1,21 @@
-**Welcome to Howard's basement  👋**
+## Welcome to Howard's basement  👋👋👋
+
 <!--
 **howardding2000/howardding2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-**Here some informations about me:**  
----
+# Here some informations about me: 
+
 - Bachelor degree on __Software Engineering__:man_student:
 - 2 years feature phone :iphone: development experience __C++__
 - 6 years project management experiencein in mobile device manufacturing（PMP Certification）:necktie:
 - __I’m recently searching a job as a FRONTEND or FULL STACK developer__ :computer:
 <!-- __I’m currently coding with Reactjs, TypeScript, Nextjs, Chakra UI__ :computer::computer_mouse::muscle:-->
-**Languages and Tools:**  
----
 
-## FRONTEND
+# Languages and Tools:
+
+### FRONTEND
 <a href="#"><img height="60" src="./assets/icons/typescript.svg" alt="TypeScript"></a>
 <a href="#"><img height="60" src="./assets/icons/javascript.svg" alt="JavaScript"></a>
 <a href="#"><img height="60" src="./assets/icons/html5.svg" alt="html5"></a>
@@ -23,7 +24,8 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="60" src="./assets/icons/sass.svg" alt="SASS"></a>
 <a href="#"><img height="60" src="./assets/icons/less.svg" alt="LESS"></a>
 <a href="#"><img height="60" src="./assets/icons/logo-chakra-400x400.jpg" alt="Chakra UI"></a>
-## BACKEND
+
+### BACKEND
 <a href="#"><img height="60" src="./assets/icons/git.svg" alt="git"></a>
 <a href="#"><img height="60" src="./assets/icons/nodejs.svg" alt="nodejs"></a>
 <a href="#"><img height="60" src="./assets/icons/express.svg" alt="express"></a>
@@ -34,7 +36,7 @@ Here are some ideas to get you started: -->
 <a href="#"><img height="60" src="./assets/icons/mybatis.svg" alt="MyBatis"></a>
 <a href="#"><img height="60" src="./assets/icons/redis.svg" alt="Redis"></a>
 
-## IDE
+### IDE
 <a href="#"><img height="60" src="./assets/icons/vscode.svg" alt="VScode"></a>
 <a href="#"><img height="60" src="./assets/icons/IntelliJ_IDEA.svg" alt="IntelliJ IDEA"></a>
 
@@ -47,16 +49,21 @@ Here are some ideas to get you started: -->
 <!--<a href="#"><img height="60" src="./assets/icons/bash.svg" alt="bash"></a>-->
 <!--<a href="#"><img height="60" src="./assets/icons/linux.svg" alt="Linux"></a>-->
 
-## My Demo
-### <a href="https://4q-todo.vercel.app/">4q-todo</a>
-* Typescript + React
+
+# My Demo:
 
 ### <a href="https://rd-client.vercel.app/">react-dashboard</a>
 * login with username:`admin` password:`admin`
 * React + Antd + nodejs + express + mongodb
 
-**My Stats:**  
----
+### <a href="https://4q-todo.vercel.app/">4q-todo</a>
+* Typescript + React
+
+### <a href="https://react-typescript-markdown-supported-note.vercel.app/">markdown-supported-note</a>
+* React + Typescript + vite
+
+# My Stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardding2000&show_icons=true&theme=default)](#)
 
 <!--START_SECTION:waka-->
